@@ -35,8 +35,7 @@ Ability to learn new things quickly and accurately
 <p>
 College
 Laguna State Polytechnic University
-Bachelor of Science in Information Technology
-2021- Present
+Bachelor of Science in Information Technology 2021- Present
 Senior High:
 Paete Science & Business College, Inc.
 Technical-Vocational-Livelihood (TVL) Track 
